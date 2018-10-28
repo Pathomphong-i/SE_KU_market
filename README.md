@@ -66,5 +66,5 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## SE KU Market
 
-how to setup xampp localhost for laravel(5.7) : https://www.codementor.io/magarrent/how-to-install-laravel-5-xampp-windows-du107u9ji
+how to setup xampp localhost for laravel("~5.0") : https://www.codementor.io/magarrent/how-to-install-laravel-5-xampp-windows-du107u9ji
 xampp7.2.10 : https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.2.10/
